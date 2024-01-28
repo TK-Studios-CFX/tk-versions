@@ -1,0 +1,35 @@
+{
+    "tk-lib": [
+        {
+            "version": "1.0.1",
+            "critical": false,
+            "date": "28th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
+    ],
+    "n3-props": [
+        {
+            "version": "1.0.1",
+            "critical": false,
+            "date": "28th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
+    ],
+    "tk-weed": [
+        {
+            "version": "1.0.1",
+            "critical": false,
+            "date": "28th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
+    ],
+    "tk-containers": [
+        {
+            "version": "1.0.1",
+            "critical": false,
+            "date": "28th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
+    ]
+}
+
