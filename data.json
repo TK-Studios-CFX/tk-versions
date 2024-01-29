@@ -30,6 +30,14 @@
             "date": "28th Jan 2024",
             "changes": ["Initial Resource Release"]
         }
+    ],
+    "tk-crypto": [
+        {
+            "version": "1.0.1",
+            "critical": false,
+            "date": "29th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
     ]
 }
 
