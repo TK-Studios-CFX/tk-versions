@@ -57,6 +57,14 @@
             "date": "29th Jan 2024",
             "changes": ["Initial Resource Release"]
         }
+    ],
+    "tk-spikes": [
+        {
+            "version": "1.0.1",
+            "critical": false,
+            "date": "29th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
     ]
 }
 
