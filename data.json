@@ -16,6 +16,15 @@
                 "Added Lib.Time Methods",
                 "Fixed countless bugs"
             ]
+        },
+        {
+            "version": "1.0.3",
+            "critical": true,
+            "date": "30th Jan 2024",
+            "changes": [
+                "Added Documentation",
+                "Added Client Lib"
+            ]
         }
     ],
     "n3-props": [
