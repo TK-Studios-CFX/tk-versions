@@ -82,6 +82,14 @@
             "date": "29th Jan 2024",
             "changes": ["Template Resource (Ignore)"]
         }
+    ],
+    "tk-mcard": [
+        {
+            "version": "1.0.1",
+            "critical": true,
+            "date": "30th Jan 2024",
+            "changes": ["Initial Resource Release"]
+        }
     ]
 }
 
