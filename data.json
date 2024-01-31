@@ -97,6 +97,12 @@
             "critical": true,
             "date": "30th Jan 2024",
             "changes": ["Initial Resource Release"]
+        },
+        {
+            "version": "1.0.2",
+            "critical": true,
+            "date": "31st Jan 2024",
+            "changes": ["Initial Public Release"]
         }
     ],
     "tk-ragdoll": [
@@ -111,6 +117,12 @@
             "critical": true,
             "date": "30th Jan 2024",
             "changes": ["Fixed major bug with inverted toggle on export."]
+        },
+        {
+            "version": "1.0.3",
+            "critical": true,
+            "date": "31st Jan 2024",
+            "changes": ["Initial Public Release"]
         }
     ]
 }
