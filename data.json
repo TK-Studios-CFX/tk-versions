@@ -25,6 +25,14 @@
                 "Added Documentation",
                 "Added Client Lib"
             ]
+        },
+        {
+            "version": "1.0.4",
+            "critical": true,
+            "date": "31st Jan 2024",
+            "changes": [
+                "Initial public release"
+            ]
         }
     ],
     "n3-props": [
