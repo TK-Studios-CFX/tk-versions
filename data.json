@@ -124,6 +124,14 @@
             "date": "31st Jan 2024",
             "changes": ["Initial Public Release"]
         }
+    ],
+    "tk-clockins": [
+        {
+            "version": "1.0.0",
+            "critical": true,
+            "date": "2nd Feb 2024",
+            "changes": ["Initial Public Release"]
+        }
     ]
 }
 
