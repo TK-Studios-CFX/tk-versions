@@ -138,6 +138,14 @@
             "date": "2nd Feb 2024",
             "changes": ["Initial Public Release"]
         }
+    ],
+    "tk-store": [
+        {
+            "version": "1.0.0",
+            "critical": true,
+            "date": "2nd Feb 2024",
+            "changes": ["Initial Testing Release"]
+        }
     ]
 }
 
