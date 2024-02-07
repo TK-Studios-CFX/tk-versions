@@ -33,6 +33,16 @@
             "changes": [
                 "Initial public release"
             ]
+        },
+        {
+            "version": "1.0.5",
+            "critical": true,
+            "date": "7th Feb 2024",
+            "changes": [
+                "Object Spawner",
+                "Client Side Library Exports",
+                "Efficiency improvements"
+            ]
         }
     ],
     "n3-props": [
