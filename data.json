@@ -157,11 +157,19 @@
             "changes": ["Initial Testing Release"]
         }
     ],
-        "tk-jail": [
+    "tk-objects": [
         {
             "version": "1.0.0",
             "critical": true,
-            "date": "2nd Feb 2024",
+            "date": "9th Feb 2024",
+            "changes": ["Initial Testing Release"]
+        }
+    ],
+    "tk-jail": [
+        {
+            "version": "1.0.0",
+            "critical": true,
+            "date": "9th Feb 2024",
             "changes": ["Initial Testing Release"]
         }
     ]
