@@ -45,7 +45,7 @@
             ]
         }
     ],
-    "n3-props": [
+    "n3-props-paid": [
         {
             "version": "1.0.1",
             "critical": false,
@@ -57,6 +57,20 @@
             "critical": true,
             "date": "4th Feb 2024",
             "changes": ["TK Crypto Farms Props"]
+        },
+        {
+            "version": "1.0.3",
+            "critical": true,
+            "date": "4th Feb 2024",
+            "changes": ["Sale Signs"]
+        }
+    ],
+    "n3-props-free": [
+        {
+            "version": "1.0.1",
+            "critical": true,
+            "date": "10th Feb 2024",
+            "changes": ["Free Props Pack Release"]
         }
     ],
     "tk-weed": [
